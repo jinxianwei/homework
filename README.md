@@ -1,7 +1,14 @@
-# homework
-The first time homework file of config and checkpoint.
+## OpenMMLabCamp
 
-The report link of Wandb is [wandb link](https://api.wandb.ai/links/team-hsienwei/cxmhodzv)
+mmclassification
 
-Attention
-The version of mmclassification is dev-1.x
+基础作业
+- log、config和模型均在当前目录下
+- Wandb report link [here](https://api.wandb.ai/links/team-hsienwei/cxmhodzv)
+- version: dev-1.x
+
+
+mmdetection
+
+
+mmsegmentation
