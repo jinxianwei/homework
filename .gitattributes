@@ -1,4 +1,0 @@
-swinv2-base-w8_16xb64_in1k-256px.py filter=lfs diff=lfs merge=lfs -text
-top1_epoch_230.pth filter=lfs diff=lfs merge=lfs -text
-first_homework filter=lfs diff=lfs merge=lfs -text
-README.md filter=lfs diff=lfs merge=lfs -text
