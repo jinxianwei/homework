@@ -1,0 +1,4 @@
+second_homework/ filter=lfs diff=lfs merge=lfs -text
+first_homework++ filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+first_homework filter=lfs diff=lfs merge=lfs -text
