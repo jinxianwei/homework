@@ -1,20 +1,3 @@
-## OpenMMLabCamp
-
-mmclassification
-
-基础作业
-- first_homework dir
-- Wandb report link [here](https://api.wandb.ai/links/team-hsienwei/cxmhodzv)
-- version: dev-1.x
-
-进阶作业
-- first_homework++ dir
-- Wandb report link [here](https://api.wandb.ai/links/team-hsienwei/6ju5yi1g)
-- version: dev-1.x
-
-
-mmdetection
-
-
-
-mmsegmentation
+version https://git-lfs.github.com/spec/v1
+oid sha256:1734e8633cf8fd2eda02abcac37517fd9d5b28a107348df4ff1573ce2adc3593
+size 332
