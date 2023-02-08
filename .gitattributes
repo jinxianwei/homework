@@ -2,3 +2,7 @@ second_homework/ filter=lfs diff=lfs merge=lfs -text
 first_homework++ filter=lfs diff=lfs merge=lfs -text
 README.md filter=lfs diff=lfs merge=lfs -text
 first_homework filter=lfs diff=lfs merge=lfs -text
+second_homework/mask-rcnn_r50_fpn_2x_coco.py filter=lfs diff=lfs merge=lfs -text
+second_homework/20230208_172347.log filter=lfs diff=lfs merge=lfs -text
+second_homework/bbox_mAP_epoch_22.pth filter=lfs diff=lfs merge=lfs -text
+second_homework/gray.mp4 filter=lfs diff=lfs merge=lfs -text
