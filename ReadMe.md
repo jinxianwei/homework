@@ -16,10 +16,15 @@ mmclassification
 mmdetection
 
 基础作业
-- second_home dir
+- second_homework dir
 - Wandb report link [here](https://api.wandb.ai/links/team-hsienwei/hext6ks0)
 - version dev-3.x
 
 
 
 mmsegmentation
+
+基础作业
+- third_homework dir
+- Wandb report link [here](https://api.wandb.ai/links/team-hsienwei/3lh1xoqz)
+- version 1.x
